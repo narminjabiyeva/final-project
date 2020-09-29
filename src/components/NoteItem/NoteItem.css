@@ -1,0 +1,24 @@
+.note {
+    display: inline-block;
+    color: black;
+    background-color: white;
+    margin: 20px;
+    width: 250px;
+    height: 250px;
+    font-family: sans-serif;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.note-title{
+    text-align: center;
+    font-weight: bold;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+}
+.note-content{
+    font-size: 15px;
+    padding: 15px;
+    text-align: justify;
+  }
